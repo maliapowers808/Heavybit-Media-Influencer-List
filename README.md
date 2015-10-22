@@ -1,4 +1,4 @@
-![open source society university]()
+![HeavyBig Media Influencer List](https://raw.githubusercontent.com/maliapowers808/Heavybit-Media-Influencer-List/master/HEAVYBIT_lt_gry_lrg_hex.png)
 
 # Heavybit-Media-Influencer-List
 This is a list of influncers w/Twitter handles in the Developer Tool space.
