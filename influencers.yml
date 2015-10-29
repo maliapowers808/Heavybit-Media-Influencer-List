@@ -1,6 +1,13 @@
-Name:
-Outlet:
-Public email:
-Twitter:
-Location:
-Beat:
+---
+# If you're adding, copy the following:
+#Name:
+#  Outlet:
+#  Twitter:
+#  Location:
+#  Beat:
+
+Name: Barb Darrow
+  Outlet: Fortune
+  Twitter: https://twitter.com/gigabarb
+  Location: Boston, MA
+  Beat: Cloud
