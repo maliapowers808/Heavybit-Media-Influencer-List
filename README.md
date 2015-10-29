@@ -15,7 +15,7 @@ We're storing this content as YAML, based on the [1.2 spec](http://www.yaml.org/
 ## How it's laid out:
 Name - The influencer's name.
 
-Outletl - Where they write (personal blog, The NYT, etc).
+Outlet - Where they write (personal blog, The NYT, etc).
 
 Public Email - A Publicly accessible email address.
 
