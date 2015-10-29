@@ -1,19 +1,41 @@
 ---
 # If you're adding, copy the following:
-#Name:
-#  Outlet:
+#Outlet:
+#  Name:
 #  Twitter:
 #  Location:
 #  Beat:
 
-Name: Barb Darrow
-  Outlet: Fortune
+Outlet: Ars Technica 
+  Name: Sean Gallager
+  Twitter: https://twitter.com/thepacketrat
+  Location: Maryland
+  Beat: IT Editor
+
+Outlet: Ars Technica
+  Name: Dan Goodwin
+  Twitter: https://twitter.com/dangoodin001
+  Location: N/A
+  Beat: IT/General
+
+Outlet: Fortune
+  Name: Barb Darrow
   Twitter: https://twitter.com/gigabarb
   Location: Boston, MA
   Beat: Cloud
 
-Name: Don Clark
-  Outlet: Wall Street Journal
+Outlet: VentureBeat
+  Name: Jordan Novet
+  Twitter: https://twitter.com/jordannovet
+  Location: San Francisco 
+  Beat: Dev Tools, Funding 
+  
+Outlet: Wall Street Journal
+  Name: Don Clark
   Twitter: https://twitter.com/donal888
   Location: San Francisco 
   Beat: Technology
+
+
+
+  
