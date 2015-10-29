@@ -1,58 +1,59 @@
 ---
-# If you're adding, copy the following:
-#Outlet:
-#  Name:
-#  Twitter:
-#  Location:
-#  Beat:
+# Add to our list! When you do, please copy the format:
+# 
+# Outlet:
+#   - Name:
+#     Twitter:
+#     Location:
+#     Beat:
 
 Outlet: Application Development Trends
-  Name: John Waters
-  Twitter: https://twitter.com/johnkwaters
-  Location: Silicon Valley
-  Beat: Tech Beat
+  - Name: John Waters
+    Twitter: https://twitter.com/johnkwaters
+    Location: Silicon Valley
+    Beat: Tech Beat
   
 Outlet: Ars Technica 
-  Name: Sean Gallager
-  Twitter: https://twitter.com/thepacketrat
-  Location: Maryland
-  Beat: IT Editor
+  - Name: Sean Gallager
+    Twitter: https://twitter.com/thepacketrat
+    Location: Maryland
+    Beat: IT Editor
 
 Outlet: Ars Technica
-  Name: Dan Goodwin
-  Twitter: https://twitter.com/dangoodin001
-  Location: N/A
-  Beat: IT/General
+  - Name: Dan Goodwin
+    Twitter: https://twitter.com/dangoodin001
+    Location: N/A
+    Beat: IT/General
 
 Outlet: EnterpriseTech
-  Name: George Leopold 
-  Twitter: hhttps://twitter.com/gleopold1
-  Location: DC
-  Beat: Enterprise Tech
-  
+  - Name: George Leopold 
+    Twitter: hhttps://twitter.com/gleopold1
+    Location: DC
+    Beat: Enterprise Tech
+    
 Outlet: eWeek
-  Name: Chris Preimesberger 
-  Twitter: https://twitter.com/editingwhiz
-  Location: Silicon Valley
-  Beat: Enterprise Tech
-  
+  - Name: Chris Preimesberger 
+    Twitter: https://twitter.com/editingwhiz
+    Location: Silicon Valley
+    Beat: Enterprise Tech
+    
 Outlet: Fortune
-  Name: Barb Darrow
-  Twitter: https://twitter.com/gigabarb
-  Location: Boston, MA
-  Beat: Cloud
+  - Name: Barb Darrow
+    Twitter: https://twitter.com/gigabarb
+    Location: Boston, MA
+    Beat: Cloud
 
 Outlet: VentureBeat
-  Name: Jordan Novet
-  Twitter: https://twitter.com/jordannovet
-  Location: San Francisco 
-  Beat: Dev Tools, Funding 
-  
+  - Name: Jordan Novet
+    Twitter: https://twitter.com/jordannovet
+    Location: San Francisco 
+    Beat: Dev Tools, Funding 
+    
 Outlet: Wall Street Journal
-  Name: Don Clark
-  Twitter: https://twitter.com/donal888
-  Location: San Francisco 
-  Beat: Technology
+  - Name: Don Clark
+    Twitter: https://twitter.com/donal888
+    Location: San Francisco 
+    Beat: Technology
 
 
 
