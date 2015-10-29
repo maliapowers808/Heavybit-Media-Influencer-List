@@ -8,6 +8,12 @@
 
 TRADE
 
+Outlet: 451 Research
+  Name: Donnie Berkholz
+  Twitter: https://twitter.com/dberkholz
+  Location: Minneapolis, MN
+  Beat: DevOps, IT Ops
+
 Outlet: Application Development Trends
   Name: John Waters
   Twitter: https://twitter.com/johnkwaters
@@ -43,6 +49,42 @@ Outlet: Fortune
   Twitter: https://twitter.com/gigabarb
   Location: Boston, MA
   Beat: Cloud
+  
+Outlet: IDC
+  Name: Rob Young
+  Twitter: https://twitter.com/RPYoung7
+  Location: Boston, MA
+  Beat:  IT Service Management (ITSM) & Client Virtualization Software 
+  
+Outlet: Gartner
+  Name: Mandy Cancila
+  Twitter: https://twitter.com/mcancila
+  Location: Austin, TX
+  Beat: Cloud
+  
+Outlet: Redmonk
+  Name: James Governor
+  Twitter: https://twitter.com/monkchips
+  Location: London, UK
+  Beat: Enterprise Tech
+  
+Outlet: Redmonk
+  Name: Stephen O'Grady
+  Twitter: https://twitter.com/sogrady
+  Location: London, UK
+  Beat: Enterprise Tech
+  
+Outlet: Tech Target
+  Name: Alex Barrett
+  Twitter: https://twitter.com/aebarrett
+  Location: Boston, MA
+  Beat: IT Infrastructure, Cloud, Virtualization
+
+Outlet: The New Stack
+  Name: Alex Williams
+  Twitter: https://twitter.com/alexwilliams
+  Location: Portland
+  Beat: Enterprise Tech
 
 Outlet: VentureBeat
   Name: Jordan Novet
