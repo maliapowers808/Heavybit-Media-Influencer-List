@@ -19,7 +19,7 @@ Outlet - Where they write (personal blog, The NYT, etc).
 
 Public Email - A Publicly accessible email address.
 
-Twitter - Twitter handle. E.g. Twitter.com/HeavyBit would just be listed as 'HeavyBit' here.
+Twitter - Twitter handle. E.g. Twitter.com/Heavybit would just be listed as 'Heavybit' here.
 
 Location - Where they live (most of the time).
 
