@@ -32,23 +32,41 @@ Outlet: Ars Technica
   Location: N/A
   Beat: IT/General
 
+Outlet: Developer.com
+  Name: Brad Jones
+  Twitter: https://twitter.com/bradleyljones
+  Location: NorthCarolina 
+  Beat: DevOps
+  
+Outlet: DevOps.com
+  Name: Alan Shimel
+  Twitter: https://twitter.com/ashimmy?lang=en 
+  Location: Flordia
+  Beat: DevOps
+  
+Outlet: DZone
+  Name: Matt Werner
+  Twitter: https://twitter.com/mwerner2112 
+  Location: North Carolina 
+  Beat: DevOps
+  
 Outlet: EnterpriseTech
   Name: George Leopold 
   Twitter: hhttps://twitter.com/gleopold1
   Location: DC
   Beat: Enterprise Tech
   
+Outlet: FierceDeveloper
+  Name: Jason Ankeny
+  Twitter: N/A
+  Location: Chicago
+  Beat: Mobile
+  
 Outlet: eWeek
   Name: Chris Preimesberger 
   Twitter: https://twitter.com/editingwhiz
   Location: Silicon Valley
   Beat: Enterprise Tech
-  
-Outlet: Fortune
-  Name: Barb Darrow
-  Twitter: https://twitter.com/gigabarb
-  Location: Boston, MA
-  Beat: Cloud
   
 Outlet: IDC
   Name: Rob Young
@@ -62,6 +80,24 @@ Outlet: Gartner
   Location: Austin, TX
   Beat: Cloud
   
+Outlet: ProgrammableWeb
+  Name: David Berlind
+  Twitter: https://twitter.com/dberlind
+  Location: Massachusetts
+  Beat: API
+  
+Outlet: Re/Code
+  Name: Arik 	Hesseldahl
+  Twitter: https://twitter.com/ahess247
+  Location: San Francisco 
+  Beat: Enterprise Tech
+  
+Outlet: Re/Code
+  Name: Liz Gannes
+  Twitter: https://twitter.com/lizgannes 
+  Location: New York
+  Beat: Mobile
+  
 Outlet: Redmonk
   Name: James Governor
   Twitter: https://twitter.com/monkchips
@@ -73,6 +109,18 @@ Outlet: Redmonk
   Twitter: https://twitter.com/sogrady
   Location: London, UK
   Beat: Enterprise Tech
+  
+Outlet: SiliconAngle
+  Name: John Furrier
+  Twitter: https://twitter.com/furrier 
+  Location: Palo Alto
+  Beat: Technology
+  
+Outlet: TechCrunch 
+  Name: Frederic Lardinois
+  Twitter: https://twitter.com/fredericl 
+  Location: Oregon
+  Beat: Technology
   
 Outlet: Tech Target
   Name: Alex Barrett
@@ -94,10 +142,28 @@ Outlet: VentureBeat
 
 BUSINESS
 
+Outlet: Business Insider
+  Name: Julie Bort
+  Twitter: https://twitter.com/Julie188 
+  Location: Colorado 
+  Beat: Technology
+  
+Outlet: Forbes
+  Name: Ben Kepes
+  Twitter: https://twitter.com/benkepes 
+  Location: New Zealand 
+  Beat: Technology
+  
+Outlet: Fortune
+  Name: Barb Darrow
+  Twitter: https://twitter.com/gigabarb
+  Location: Boston, MA
+  Beat: Cloud
+  
 Outlet: Wall Street Journal
   Name: Don Clark
   Twitter: https://twitter.com/donal888
   Location: San Francisco 
-  Beat: Technology
+  Beat: Enterprise Technology
 
-  
+ 
